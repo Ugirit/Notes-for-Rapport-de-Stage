@@ -7,7 +7,8 @@ Notice work time flexibility
 Use Slack, Github, discourse
 Git commit
 Repository
-Hours 10-
+Hours 10-17:30
+IMPORTANT: Opensource project
 
 #Jour 2
 
