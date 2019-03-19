@@ -1,5 +1,5 @@
 
 language: javascript
 script:
-  -  echo "Hello World"
+
   -  npm
