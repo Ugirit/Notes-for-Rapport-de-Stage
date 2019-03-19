@@ -1,4 +1,5 @@
-
-language: node.js
+language: bash
+language: node_js
 script:
+  -  echo "hello world"
   -  npm
