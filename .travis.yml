@@ -2,4 +2,5 @@ language: bash
 language: javascript
 script:
   -  echo "Hello World"
-  -  npm
+  -  npm install yaspeller-ci
+  -  node_modules/.bin/yaspeller-ci *.md
