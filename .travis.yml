@@ -1,3 +1,5 @@
 language: bash
+language: javascript
 script:
   -  echo "Hello World"
+  -  npm
