@@ -19,9 +19,9 @@ IMPORTANT: Opensource project
 
 
 
-#Jour 3:
+#Jour 3:  
 
-
+Talk with Web Developer
 
 
 
