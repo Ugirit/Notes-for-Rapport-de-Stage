@@ -1,14 +1,14 @@
 ## Stage organization
 
 #Jour 1:
-Tour de l'immeuble
-Co-workspace named Wodjo
-Notice work time flexibility
-Use Slack, Github, discourse
-Git commit
-Repository
-Hours 10-17:30
-IMPORTANT: Opensource project
+Tour de l'immeuble  
+Co-workspace named Wodjo  
+Notice work time flexibility  
+Use Slack, Github, discourse  
+Git commit  
+Repository  
+Hours 10-17:30  
+IMPORTANT: Opensource project  
 
 #Jour 2
 
