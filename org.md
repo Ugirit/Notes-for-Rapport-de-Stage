@@ -1,6 +1,6 @@
 ## Stage organization
 
-#Jour 1:
+#Jour 1:  
 Tour de l'immeuble  
 Co-workspace named Wodjo  
 Notice work time flexibility  
