@@ -5,4 +5,5 @@ script:
   -  echo "Hello World"
   -  npm install yaspeller-ci
   -  node_modules/.bin/yaspeller-ci   --ignore-uppercase --ignore-urls *.md
+  -  npm install pandoc
   -  pandoc *.md -o *.pdf
