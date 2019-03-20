@@ -1,7 +1,7 @@
-## Stage organization
+## Internship organization
 
-#Jour 1:  
-Tour de l'immeuble  
+#1:  
+building tour  
 Co-workspace named Wodjo  
 Notice work time flexibility  
 Use Slack, Github, discourse  
@@ -10,7 +10,7 @@ Repository
 Hours 10-17:30  
 IMPORTANT: Opensource project  
 
-#Jour 2
+#2
 
 
 
@@ -19,7 +19,7 @@ IMPORTANT: Opensource project
 
 
 
-#Jour 3:  
+#3 
 
 Talk with Web Developer
 
