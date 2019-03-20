@@ -1,6 +1,10 @@
-## Internship organization
 
-#1:  
+---
+title: Org a
+author: Girit
+---
+## Internship organization
+# 1:  
 building tour  
 Co-workspace named   
 Notice work time flexibility  
@@ -10,7 +14,7 @@ Repository
 Hours 10-17:30  
 IMPORTANT:  project  
 
-#2
+# 2
 
 
 
@@ -19,7 +23,7 @@ IMPORTANT:  project
 
 
 
-#3 
+# 3 
 
 Talk with Web Developer
 

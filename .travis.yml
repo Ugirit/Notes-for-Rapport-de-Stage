@@ -4,4 +4,5 @@ node_js:
 script:
   -  echo "Hello World"
   -  npm install yaspeller-ci
-  -  node_modules/.bin/yaspeller-ci    --ignore-uppercase --ignore-urls *.md
+  -  node_modules/.bin/yaspeller-ci   --ignore-uppercase --ignore-urls *.md
+  -  pandoc *.md -o *.pdf
