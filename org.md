@@ -2,13 +2,13 @@
 
 #1:  
 building tour  
-Co-workspace named Wodjo  
+Co-workspace named   
 Notice work time flexibility  
-Use Slack, Github, discourse  
+Use , discourse  
 Git commit  
 Repository  
 Hours 10-17:30  
-IMPORTANT: Opensource project  
+IMPORTANT:  project  
 
 #2
 
@@ -41,21 +41,3 @@ Talk with Web Developer
 
 
 
-#Nom de l'entreprise: Tweag
-
-#Date de creation: Dec 2013
-
-#Createur: ?
-
-#Interview numero 1 parcours d'etude:
-
-
-
-
-#Interview numero 2 parcours d'etude:
-
-
-
-
-
-#Fonction du responsable: data scientist: Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.
