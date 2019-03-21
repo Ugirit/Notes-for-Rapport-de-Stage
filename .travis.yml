@@ -1,13 +1,8 @@
 language: node_js
 node_js:
   - "10"
-before_install:
-- sudo apt-get update -qq
-- sudo apt-get install -y pandoc
-- sudo apt-get install -y texlive-full
-- sudo apt-get install -y texlive-xetex
+
 script:
   -  echo "Hello World"
   -  npm install yaspeller-ci
   -  node_modules/.bin/yaspeller-ci   --ignore-uppercase --ignore-urls *.md
-  -  pandoc *.md -o *.pdf
