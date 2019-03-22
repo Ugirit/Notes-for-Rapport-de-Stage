@@ -1,5 +1,8 @@
-language: bash
-language: javascript
+language: node_js
+node_js:
+  - "10"
+
 script:
   -  echo "Hello World"
-  -  npm
+  -  npm install yaspeller-ci
+  -  node_modules/.bin/yaspeller-ci   --ignore-uppercase --ignore-urls *.md
